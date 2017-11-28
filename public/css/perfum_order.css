@@ -1,0 +1,19 @@
+#registr_left{
+	border:1px solid #bcbcbc; 
+	margin:20px
+	}
+
+#namefield{
+	margin-bottom:20px;
+	height:40px;
+	border:1px solid #bcbcbc; 
+	}
+#chekbox_margn{
+	margin-left:16px;
+	}
+#orderperfume{
+	background-color: #441640;
+    border-radius: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+	}

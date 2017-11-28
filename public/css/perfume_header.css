@@ -1,0 +1,214 @@
+#logo_text{
+        color: white; 
+        display: inline-block;
+        margin-left: 10px;
+        margin-top: 10px;
+        }
+#perfume_menu{
+	background-color:black;
+    border-color: transparent;
+	border:none;
+    border-radius: 0px;
+	margin-bottom:0px;
+        color: white;
+	}
+#perfume_logo{
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-right:100px;
+	}
+#menu_items{
+	font-size:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	color:white;
+	}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+    color: red !important;
+    background-color: transparent !important;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	 color: red !important;
+    background-color: transparent !important;
+	}
+#menu_login{
+	font-size:16px;
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	}
+.bgclrfooter_perfumes{
+	background-color:black;
+	color:black;
+	padding:20px 15px 15px 20px;
+	}
+#footer_heading{
+	color:#ff0000;
+	margin-bottom:3px;
+	margin-top:0px;
+        font-size: 20px;
+	}
+#hr_width1{
+	margin:0px 0px 20px 0px;
+	width:47%;
+            }
+        
+#footer_links{
+	color:white;
+        font-size: 16px;
+	}
+#hr_width2{
+	margin:0px 0px 20px 0px;
+	
+	width:18%;
+        }
+#hr_width3{
+	margin:0px 0px 20px 0px;
+	
+	width:28%;
+	}
+#perfume_icons{
+    background-color:#1da1f2;
+    color: white;
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+    vertical-align: middle;
+	}
+#perfume_icons2{
+	background-color:#3b5998;
+    color: white;
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+    vertical-align: middle;
+	}
+#perfume_icons3{
+	background-color:#848484;
+    color: white;
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+    vertical-align: middle;
+	padding-left:7px;
+	}
+	
+#perfumetxt_clr{
+	color:#441640;
+	}
+#litetxt{
+	color: #787f8f;
+	}
+  /*-----------social icons------*/  
+/*=========================
+  Icons
+ ================= */
+/* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+
+/* footer social icons */
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+.social-network a.icopentrist:hover {
+	background-color:rgb(189, 8, 28);
+}
+.social-network a.icoGoogle:hover {
+	background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+	background-color:#0590B8;
+}
+.social-network a.icointagram:hover {
+	background-color:#e95950;
+        color:white;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+        background-color:lightgrey;
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+.social-circle li i {
+	margin:0;
+	line-height:50px;
+	text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+        color:white;
+}
+.social-circle i {
+	color: grey;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+a {
+ background-color: #D3D3D3;   
+}
+@media (max-width:768px){
+.social-circle li i {
+	margin:0;
+	line-height:35px;
+	text-align: center;
+}
+.social-circle li a {
+        background-color:lightgrey;
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 35px;
+	height: 35px;
+	font-size:20px;
+}
+}
+	
+	

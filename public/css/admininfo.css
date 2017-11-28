@@ -1,0 +1,37 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+th, td {
+    text-align: left;
+    padding: 0px;
+}
+
+
+tr:nth-child(even)
+{
+
+}
+.table_heading{
+    background: #696969;
+    color: white;
+   
+}
+.table_btton{
+    color: white;
+    border: 1px solid;
+    background: #696969;
+    border-radius: 5px;
+    height: 35px;
+
+    border-color: #072934;
+}
+
+
+/*
+th {
+    background-color: #00a65a;
+    color: white;
+}*/

@@ -1,0 +1,41 @@
+#lower_banner{
+	background:url(../images/how_work/lower_banner_14.png) no-repeat no-repeat;
+	background-size:cover;
+	height:500px;
+        padding-top: 20px;
+	}
+#doorstep{
+	margin-top:10%;
+	background-color:white;
+	padding-right:0px
+	}
+#subscribe_btnperfume{
+	background-color:#ff0000;
+	border-color:transparent;
+	border:none;
+	margin-top:20px;
+	border-radius:7px;
+	padding-right:20px;
+	padding-left:20px;
+	}
+        #perfumetxt_clr_work{
+            color: #ff0000;
+        }
+        .cont_width{
+            width: 70%;
+        }
+       .heading_above{
+            margin-top: 5%;
+        }
+       
+        
+        
+@media (max-width:768px){
+
+.cont_width{
+            width: 80%;
+        }
+        .heading_above{
+            margin-top: 0px;
+        }
+}

@@ -1,0 +1,63 @@
+#img_gift{
+	margin-top:10px;
+	margin-bottom:20px;
+	}
+#sideline{
+	padding-left:0px; 
+	margin-top:60px;
+	}
+#sideline2{
+	padding-right:0px; 
+	margin-top:60px;
+	}
+#gift_width{
+	border:1px solid;
+	width:30%;
+	margin-right:50px;
+	margin-bottom:20px;
+	}
+#gift_choosebtn{
+	padding-left: 25px;
+    padding-right: 25px;
+    background-color:#ff0000;
+    border-radius: 0px;
+    margin-bottom: 10px;
+	}
+#gift_width3{
+	border:1px solid;
+	width:30%;
+	
+	margin-bottom:20px;
+	}
+
+
+
+
+@media (max-width:992px){
+	#gift_width{
+	border:1px solid;
+	width:100%;
+	margin-right:0px;
+	margin-bottom:20px;
+	}
+        #gift_width3{
+	border:1px solid;
+	width:100%;
+	
+	margin-bottom:20px;
+	}
+	}
+@media (max-width:768px){
+	#gift_width{
+	border:1px solid;
+	width:100%;
+	margin-right:0px;
+	margin-bottom:20px;
+	}
+        #gift_width3{
+	border:1px solid;
+	width:100%;
+	
+	margin-bottom:20px;
+	}
+	}

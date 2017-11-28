@@ -1,0 +1,199 @@
+@font-face{
+	font-family:"ubuntu";
+	src:url("../fonts/Ubuntu-R.ttf") format("truetype");
+	}
+
+.bx-default-pager{
+    display:none !important;
+}
+.bx-controls-direction{
+    text-align: center !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bx-prev{
+    margin-right: 100px !important;
+    font-weight: 600;
+    font-size: 30px;
+     color:black !important;
+}
+.bx-next{
+    margin-left: 30px !important;
+    font-weight: 600;
+    font-size: 30px;
+    color:black !important;
+}
+
+#listgap{
+    margin-right:30px;
+}
+.grandchild {
+    float: left;
+}
+.clearboth {
+    clear: both;
+}
+#perfumetxt_clr_n{
+	color:#ff0000;
+	}
+#perfumebox{
+	border:1px solid grey;
+	width:90%;
+	margin-right:40px;
+	}
+#perfumebox1{
+	border:1px solid grey;
+	width:90%;
+       }
+#bgperfume{
+
+	background:url(../images/11.jpg) no-repeat no-repeat;
+	background-size:cover;
+	height:600px;
+	}
+        #bgperfume_women{
+            background:url(../images/women_banner.jpg) no-repeat no-repeat;
+	background-size:cover;
+	height:600px;
+        }
+#litetxt_signup{
+	color:white;
+	}
+#signup_perfume{
+	margin-top:20px;
+	}
+#sign_btnperfume{
+        margin-top: 20px;
+	background-color:#ff0000;
+	border-color:transparent;
+	border:none;
+	}
+#lower_box{
+	border:5px solid #441640;
+	width:45%;
+	margin-right:50px;
+	border-radius:7px;
+	padding-bottom:20px;
+	}
+#lower_box1{
+	border:5px solid #441640;
+	width:45%;
+	border-radius:7px;
+	}
+.brand_top{
+	 margin-top: -20px;
+    margin-left: -40px;
+
+	}
+.authentic_top{
+	margin-top: -20px;
+    margin-left: -40px;
+	}
+.month_top{
+	margin-top: -40px;
+    margin-left: -40px;
+	}
+#lower_box3{
+	border:5px solid #441640;
+	width:45%;
+	margin-right:50px;
+	border-radius:7px;
+	margin-top:30px;
+	padding-bottom:10px;
+	}
+#lower_box4{
+	border:5px solid #441640;
+	width:45%;
+	border-radius:7px;
+	margin-top:30px;
+	padding-bottom:30px;
+	}
+.reuse_top{
+	margin-top: -20px;
+    margin-left: -34px;
+	}
+        #bg_lowerbanner{
+            background:url(../images/lower_banner.png) no-repeat no-repeat;
+	background-size:cover;
+	height:400px;
+        width: 100%;
+        }
+        #bg_lowerbannerw{
+            background:url(../images/women2.jpg) no-repeat no-repeat;
+	background-size:cover;
+	height:400px;
+        width: 100%;
+            
+        }
+        #lowertext{
+            margin-left: 5%;
+            color: white;
+        }
+        #lowertext2{
+            margin-left: 7%;
+            color: white;
+        }
+        #sign_btnperfume_down{
+        background-color:#ff0000;
+	border-color:transparent;
+	border:none;
+        margin-left: 9%;
+        }
+        #productarea{
+            color:#ff0000;
+            background-color: white;
+            padding: 3px;
+            margin-right: 5px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border-color: transparent;
+        }
+        #mobileview{
+            width: 250px;
+            height:160px;
+            
+        }
+        #productscolor{
+            margin: 0px;
+            margin-bottom: 5px;
+            
+        }
+        #div_product{
+            width: 24.5%;
+        }
+
+
+
+@media (max-width:992px){
+#signup_perfume{
+	margin-top:0px;
+	}
+#listgap{
+    margin-right:0px;
+}
+#div_product{
+            width: 50%;
+        }
+    #mobileview{
+            width: 250px;
+            height:150px;
+            margin-bottom: 20px;
+        }
+#bgperfume_women{
+            background:url(../images/women_banner.jpg) no-repeat no-repeat;
+	background-size:cover;
+	height:auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        }
+
+
+
+}
+@media (max-width:768px){
+#lowertext{
+            margin-left: 5%;
+            color: white;
+            margin-top: 0px;
+        }
+}

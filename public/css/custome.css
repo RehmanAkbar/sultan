@@ -1,0 +1,94 @@
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #222d32;
+    height: auto;
+    margin-left: -15px;
+}
+.logout{
+    float: left;
+    margin-top: 2%;
+    /*margin-top: 2%;*/
+    font-size: 20px;
+    font-family: Arial;
+    padding-right: 13px;
+    color: white;
+    padding-top: 3px;
+}
+
+.container{
+    background: #ECF0F5;
+    height:auto;
+    width: auto;
+
+}
+.fa-icon-header-nave{
+    padding-top: 4px;
+}
+
+.login_email_icon{
+    padding-top: 20px;
+
+}
+.main_sidebar{
+    height:100%;
+    width:auto;
+    margin-left: -15px;
+
+}
+.sidebar{
+    padding-bottom:0px !important;
+
+}
+
+/*.main-footer{
+    margin-left: 225px !important;
+}*/
+/*.header_nav{
+
+    margin-left: 215px !important;
+}*/
+.company_logo{
+    height: 95px; ;
+    width: 85px ;
+    float: left;
+    margin-bottom: 22px ;
+
+}
+.companies{
+    padding-left: 20px;
+}
+.sidebar-icon{
+
+    margin-right: -135px;
+}
+.company_views{
+    color: #b8c7ce;
+}
+.company_forms{
+    color: #b8c7ce;
+}
+.company-table{
+    height:auto;
+    width:auto;
+    margin-left: 16%;
+    margin-top: -56px;
+
+}
+.company-table tr:nth-child(even) {
+    background: lightblue;
+}
+
+.dealer_form {
+    display: inline-block;
+    text-align: center;
+}
+.form_service{
+    display: inline-block;
+    text-align: center;
+
+}
+.form_provider{
+
+    display: inline-block;
+    text-align: center;
+
+}
